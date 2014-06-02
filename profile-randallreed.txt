@@ -1,0 +1,21 @@
+Name: Randall Reed, Jr.
+Github: http://github.com/randallreedjr
+Blog: http://randallreedjr.github.io
+Tagline: Code is never finished, only abandoned.
+Profile Picture: https://en.gravatar.com/userimage/37931155/5bab8ce488a01453cff093585953a4f0.jpg?size=340
+Treehouse Account: http://teamtreehouse.com/randallreedjr
+CoderWall Account: https://coderwall.com/randallreedjr
+CodeSchool Account: http://www.codeschool.com/users/randallreedjr
+
+Favorite Websites:
+http://feedly.com
+
+Previous Work Experience:
+Fast Enterprises, LLC, Implementation Consultant
+
+Short Bio:
+Born in Tennessee, raised in Virginia. Started writing programs on my TI-89 in high school. Majored in Computer Engineering in Virginia Tech and quickly realized I preferred software programming over hardware design. Worked in Boise, ID, Trinidad and Tobago, and Atlanta, GA before moving to NYC for the Flatiron School.
+
+Twitter URL: http://twitter.com/randallocalypse
+LinkedIn URL: http://www.linkedin.com/in/randallreedjr
+Education: Virginia Tech, B.S. Computer Engineering
